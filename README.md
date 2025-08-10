@@ -43,10 +43,7 @@ This repository provides a sample implementation of a user login system using Wi
 4. If the credentials are correct, you’ll be logged in (and typically redirected to the main app window).
 5. If credentials are invalid, an error message will appear.
 
-> **Note:**  
-> The current implementation uses hardcoded credentials for demonstration. For production, replace this logic with real database validation.
 
----
 
 ## Customization & Extension
 
